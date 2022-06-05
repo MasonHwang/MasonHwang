@@ -45,35 +45,8 @@
 - 광고성 리뷰 & 非광고성 리뷰의 데이터 라벨링 및 전처리 
 - 자연어 처리를 통한 최다 빈도 단어 추출 
 
-[프로젝트 소개 영상 링크](https://youtu.be/H5hiLZGH1BA)
-
-<br>
-
-## 동작 화면
-
-<img width="100%" alt="acting_screen" src="https://user-images.githubusercontent.com/78339038/147203477-1213ae3c-cb6a-4b77-abce-a1614b87564c.PNG">
-
-<br>
-
-## 사용 기술 스택
-
-* Python을 이용한 웹 크롤링
-* 광고성 리뷰&비 광고성 리뷰의 데이터 라벨링 및 전처리 
-* 자연어 처리를 통한 최다 빈도 단어 추출 
-* svm분류 모델 생성
-* 장고 및 리액트를 이용한 웹페이지 제공
-
-<br>
-
-## 과제 진행 과정
-
-<img width="80%" alt="process" src="https://user-images.githubusercontent.com/78339038/147204313-2fd7b651-d9fd-41e8-b53e-a7570a297623.PNG">
-
-<br>
-
 깃허브 : https://github.com/DeanKang97/pythonProject
-
-캡스톤 디자인 제출 영상 : https://youtu.be/FUeq3ByAHy0
+프로젝트 소개 영상 : https://youtu.be/FUeq3ByAHy0
 
 <br>
 
@@ -87,35 +60,6 @@
 - Android Studio(Java)를 이용한 애플리케이션 개발
 
 - Kakao API활용(지도, 메시지, 페이, 로그인)
-
-<br>
-
-## 테크 아키텍처
-
-<br>
-
-<img width="70%" src="https://user-images.githubusercontent.com/78339038/149612393-1bbfb79b-7b8e-488d-98aa-7322e4a22752.jpg"/>
-
-<br>
-
-## 애플리케이션 기능별 화면
-
-<br>
-
-<img width="80%" src="https://user-images.githubusercontent.com/78339038/147210095-19259ca6-6d1e-4e5c-a131-1978ad109f71.PNG"/>
-<img width="80%" src="https://user-images.githubusercontent.com/78339038/147210117-8d92570a-4f07-4bcc-9e7b-2d505303f9da.PNG"/>
-
-<br>
-
-## API Document
-
-[Click to Check API Document](https://github.com/NerdNULL/DL-Server/blob/master/README.md)
-
-<br>
-
-## Database Information
-
-[Click to Check Database Information](https://hypnotic-mambo-7a0.notion.site/Database-f683f358d0b842c092d5fd3d3db73523)
 
 <br>
 
