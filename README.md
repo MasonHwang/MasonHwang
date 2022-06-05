@@ -4,7 +4,7 @@
 
 🌱 **KOSA SW개발자 교육 과정 진행 중**
 
-**개인 블로그 : https://shine-xia.tistory.com/ **
+**개인 블로그 : https://shine-xia.tistory.com**
 
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
