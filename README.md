@@ -46,6 +46,7 @@
 - 자연어 처리를 통한 최다 빈도 단어 추출 
 
 깃허브 : https://github.com/DeanKang97/pythonProject
+
 프로젝트 소개 영상 : https://youtu.be/FUeq3ByAHy0
 
 <br>
@@ -65,7 +66,7 @@
 
 깃허브 : https://github.com/NerdNULL/Don-Late
 
-캡스톤 디자인 제출 영상 : https://youtu.be/0brqbsoo9Vc
+프로젝트 소개 영상 : https://youtu.be/0brqbsoo9Vc
 
 
 <!--
