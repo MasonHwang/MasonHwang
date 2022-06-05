@@ -1,5 +1,9 @@
-<div align=center><h1>목표를 위해 최선을 다하는 개발자 '황명하'입니다.👨‍💻</h1> </div>
+<div align=center><h1>✨목표를 위해 최선을 다하는 개발자 '황명하'입니다.👨‍💻</h1> </div>
 
+👨‍🎓**컴퓨터 관련 전공(학사) 졸업**
+
+🌱 **KOSA SW개발자 교육 과정 진행 중**
+<br>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -34,6 +38,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
+<br>
+<div align=center><h1>🗂 PROJECTS </h1></div>
 
 # 프로젝트 1 </br>▶ 진짜 리뷰 판별 사이트 제작 프로젝트 </br>(화장품 리뷰 거짓 판단 및 분석, 시각화 서비스)
 
