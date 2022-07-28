@@ -2,7 +2,7 @@
 
 👨‍🎓**컴퓨터 관련 전공(학사) 졸업**
 
-🌱 **KOSA SW개발자 교육 과정 진행 중**
+🌱 **KOSA SW개발자 교육 과정 수료**
 
 **개인 블로그 : https://shine-xia.tistory.com**
 
